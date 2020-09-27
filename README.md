@@ -1,2 +1,2 @@
-# cx1964tuplebasics
+# cx1964PublicTupleBasics
 tuplebasics
